@@ -6,3 +6,4 @@ In this App
  - You can update your data by removing income or expense 
 
  - Start the App (  https://walaaayyad.github.io/Budget-App/ )
+ - Note: this app for desktop and not responsive for small screen
